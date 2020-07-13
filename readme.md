@@ -2,9 +2,9 @@
 This is an example project to initialize Rest services with Spring Boot. 
 
 ## How To Run
-After cloning project :
 
 ```bash
+git clone https://github.com/volkanalb/Spring-Boot-Rest-Demo.git
 cd Spring-Boot-Rest-Demo
 mvn spring-boot:run
 ```

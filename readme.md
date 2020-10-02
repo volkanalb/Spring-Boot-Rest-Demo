@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/volkanalb/spring-boot-rest-demo/badge)](https://www.codefactor.io/repository/github/volkanalb/spring-boot-rest-demo)
+
 # Spring Boot Rest Demo
 This is an example project to initialize Rest services with Spring Boot. 
 

@@ -172,3 +172,5 @@ The REST API to the example app is described below. You can also find example [P
 ## Developed by
 
 Volkan Albayrak
+
+###Hactoberfest commit
